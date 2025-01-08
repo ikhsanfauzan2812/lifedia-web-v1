@@ -1,23 +1,22 @@
-# Lifedia - Marketplace Asuransi Kesehatan
+# Lifedia - Health Insurance Marketplace
 
-Lifedia adalah platform marketplace yang dirancang untuk mempermudah pengguna dalam memilih, membandingkan, dan membeli asuransi kesehatan yang sesuai dengan kebutuhan mereka. Proyek ini dibuat menggunakan HTML, CSS, dan JavaScript untuk memastikan pengalaman pengguna yang intuitif dan responsif.
+Lifedia is a marketplace platform designed to simplify the process of selecting, comparing, and purchasing health insurance tailored to users' needs. This project is built using HTML, CSS, and JavaScript to ensure an intuitive and responsive user experience.
 
-## 🎯 Fitur Utama
+## 🎯 Key Features
 
-- **Perbandingan Asuransi**: Membandingkan berbagai produk asuransi dari berbagai perusahaan dalam satu platform.
-- **Filter Pintar**: Temukan asuransi yang paling sesuai dengan kebutuhan berdasarkan anggaran, cakupan, dan preferensi lainnya.
-- **Desain Responsif**: Dioptimalkan untuk berbagai perangkat, baik desktop maupun mobile.
-- **Antarmuka Interaktif**: Dibangun dengan JavaScript untuk memberikan pengalaman pengguna yang lancar dan dinamis.
-- **Keamanan Data**: Formulir pendaftaran dan login dengan validasi klien-side menggunakan JavaScript.
+- **Insurance Comparison**: Compare various insurance products from different providers on one platform.
+- **Smart Filters**: Find the most suitable insurance based on budget, coverage, and other preferences.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Interactive Interface**: Built with JavaScript for smooth and dynamic user interactions.
+- **Data Security**: Registration and login forms with client-side validation using JavaScript.
 
-## 🚀 Teknologi yang Digunakan
+## 🚀 Technologies Used
 
-- **HTML5**: Struktur halaman dan elemen-elemen konten.
-- **CSS3**: Styling yang responsif dan modern menggunakan Flexbox dan Grid.
-- **JavaScript**: Interaktivitas seperti filter produk, validasi formulir, dan animasi.
+- **HTML5**: Page structure and content elements.
+- **CSS3**: Responsive and modern styling using Flexbox and Grid.
+- **JavaScript**: Interactivity such as product filtering, form validation, and animations.
 
-
-## 📂 Struktur Direktori
+## 📂 Directory Structure
 
 ```plaintext
 lifedia-web-v1/
@@ -61,30 +60,26 @@ lifedia-web-v1/
 ├── .gitignore               # File untuk mengabaikan file/folder tertentu dalam Git
 ├── package.json             # File konfigurasi npm
 └── README.md                # Dokumentasi proyek
+```
 
+## 📖 Installation Guide
 
-## 📖 Panduan Instalasi
-
-1. Clone repositori ini:
+1. Clone this repository:
    ```bash
-   git clone https://github.com/username/lifedia.git
+   git clone https://github.com/ikhsanfauzan2812/lifedia-web-v1.git
    ```
 
-2. Buka folder proyek:
+2. Navigate to the project folder:
    ```bash
-   cd lifedia
+   cd lifedia-web-v1
    ```
 
-3. Buka file `index.html` di browser favorit Anda.
+3. Open the index.html file in your favorite browser.
 
-## 💡 Kontribusi
 
-Kami menyambut kontribusi dari siapa saja. Jika Anda memiliki ide atau menemukan bug, silakan buat pull request atau laporkan masalah di [issues](https://github.com/username/lifedia/issues).
-
-## 🛡️ Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+## 💡 Contribution
+We welcome contributions from everyone. If you have an idea or find a bug, feel free to create a pull request or report an issue in the issues section.
 
 ---
 
-**Dibuat dengan ❤️ oleh [Ikhsan Fauzan Aziim](https://github.com/ikhsanfauzanaziim)**
+**Create with ❤️ [Ikhsan](https://github.com/ikhsanfauzan2812)**
