@@ -16,16 +16,6 @@ Lifedia adalah platform marketplace yang dirancang untuk mempermudah pengguna da
 - **CSS3**: Styling yang responsif dan modern menggunakan Flexbox dan Grid.
 - **JavaScript**: Interaktivitas seperti filter produk, validasi formulir, dan animasi.
 
-## 📸 Tampilan Aplikasi
-
-### Halaman Beranda
-![Beranda](https://via.placeholder.com/800x400?text=Screenshot+Beranda)
-
-### Halaman Perbandingan Asuransi
-![Perbandingan Asuransi](https://via.placeholder.com/800x400?text=Screenshot+Perbandingan)
-
-### Halaman Detail Produk
-![Detail Produk](https://via.placeholder.com/800x400?text=Screenshot+Detail+Produk)
 
 ## 📂 Struktur Direktori
 
